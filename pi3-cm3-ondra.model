@@ -1,0 +1,21 @@
+type: model
+authority-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+series: 16
+brand-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+model: pi3-cm3-ondra
+architecture: armhf
+gadget: pi3-cm3-ondra
+kernel: pi2-kernel
+timestamp: 2016-11-15T17:43:39+00:00
+sign-key-sha3-384: m4ldQeZ-SDIbvYTHIsug9YIwNbjQvOQSH90sWEj66tSIuZpfl1bLFQuHdIiv5IsI
+
+AcLBXAQAAQoABgUCWQiujgAKCRBVi+C7v4VPvcEnD/9eZVDxsFzWvD/iL5MGeyOKNK/fOfdgCTw5
+iimCgGUtSitn+rIn0B0n5Sjw1oV9QLJcctT6ogMznxY8aCLh7xsUSbWJJqgjeSEyjBEbSSprXCyC
++xZ2YocffzMPZWLgM+4Q26d9atzI/USLW7093uoAe7mK5RvaiX4OMlZviNaq1rzC8ohkwKD16ajX
+0A4CcWapMIW3oqNz4hiW31GmjHsstiCyjtXH7epOBV6UeO14mxeIRBiesmHrwNbeDxjHx4+MTCmt
+chZ5eXK6Ftk8YCkBj1szboK7lwHaStF8P+XNw+YdN1Wqh7UdND6LWPBWGHbD/fDFPp6ZS3kguFoW
+EfA8oQLAljPEe4Sw7iTt133e8VM5W1LVBcC1OeugA5s2H/f22XhlCRaeoDGYC4CX4PXtC3uUHyRn
+Q6qYzsJTjLUViMGPeD6jlpQjM6/xai89Tp+/i5ihC2cgaomggqGp7tcRYgflElX0NVZssL6ezKIr
+ydsOox0m6P+dlwpOgGbaQibjT/8016C/W/SVyyiQCV/91ylJ81PEla1ksVu9iqLKP5MZ5lpGTtZp
+hvHK1FlhxDsVe5rpxhAn0g5GjAPgiCjB522CfJf/Kf/gaosgj4pWkMOAf4fOUhsiiYXBSx5FS07e
+/miNQYKA8RiH51vvHWGwgREmvDUYO3w3XhZEj/N5rg==

@@ -1,0 +1,21 @@
+type: model
+authority-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+series: 16
+brand-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+model: pc-ondra
+architecture: amd64
+gadget: pc-ondra
+kernel: pc-kernel
+timestamp: 2016-11-15T17:43:39+00:00
+sign-key-sha3-384: m4ldQeZ-SDIbvYTHIsug9YIwNbjQvOQSH90sWEj66tSIuZpfl1bLFQuHdIiv5IsI
+
+AcLBXAQAAQoABgUCWC8/cgAKCRBVi+C7v4VPvQmuD/0XQxXc2wlCW/lGAJETmA10ufPepmP4ISDg
+kkc+HcbScEepfhqJ/ve+N51uSPJ8zFFLDsgLBXHmNQ/2Ny2vac33CkyHSBbVq1glqOk5liLmH9HS
+nE597tJ7kRTqx6CxHILgC91HLV/gHReztTGxCHpUv9rq8XMB6uPSDtQ6g2au9KAbHKuRloy+Ekhn
+CSTjJasEpoGojZqr0KaoFPHwAl26S5HoVMuPGOehNiwsJHIB43GxRSlMmAtFjFACRp+e2Ml65jwP
+DxOGUnqcWRkB4nhxUChkVuzY0DGNnIAIpzANX8afyx6Zti/p9S9eiMcvzNTCNratlzuefP9gOq3H
+WVpuFbPL8AqoQnO4SrRj7K+E9UDbcNHFgt4BeIMT3gCoW7v+iBp9X5yrWfRudYG8kTTCYm8Vw2eC
+QAX4IzhO3Z0OFf7AX4fVUs65nW9vv8TnQHyCm8rDuNHBXtZ6/YnHxBgDmo89fu9LDHB8qRQxI9o2
+M+ZIb1GFRklN1P8OwGlP6x6u801Z/nIWQaTf6R4n/jXHEBfMR4+Kcgfe50JADcLdSRikQegndq5m
+XLx2dqzXNL5VWwbwzMk/MgK3SjmbRxIsRSlWrdVM0/T0c1jS/KzVhn9l6ORov8vyqJTdn15SYJ4N
+b2SXN7AuNwbSNlo1EO+x88D+99N52PsRiZgoqtPhUw==

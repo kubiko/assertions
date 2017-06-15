@@ -1,0 +1,21 @@
+type: model
+authority-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+series: 16
+brand-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+model: unipi
+architecture: armhf
+gadget: unipi
+kernel: pi2-kernel
+timestamp: 2016-11-15T17:43:39+00:00
+sign-key-sha3-384: m4ldQeZ-SDIbvYTHIsug9YIwNbjQvOQSH90sWEj66tSIuZpfl1bLFQuHdIiv5IsI
+
+AcLBXAQAAQoABgUCWQyoJQAKCRBVi+C7v4VPvcm/EACXTN8WLCN+tMrj+XcOXCj69zeskmaWRi5t
+npf/AkCvTYQuyDcRHuLcPIecrTXN4A2fIBJg/e34teNTKrdys0hZGs5opCJxFxFirvDh/FafcFzy
+uMruJDrx1zDafURkUGBbSAecusVOOBke7wHOJ456j7YIesyh73xtYKNrPBhShopB2Fkg60abbTvN
+91t+hiqh0IR1H1lu9SG7wMMOfWy1C2aBHdlrWg/axKJDEYFVBssKLVdpHy4U7We8msgp1RiT4CqA
+AJYVzth27OwxlT6+R7hk/6/CptKnhbuACgzBdhPzNmfD0TKDpU7rzMD/MLO4BOVEV2LGnUiCK68/
+X8BJcSrXIkpY7ijsqf693fCvgf2fxOXoDkjMSWlUYC5o2VK1Mgtpj6bty7UCg5rjVY1QgOQ8B+e2
+hjE5TxI2VKfqHZxraeGzzEQfVJG5NLX/nAaNPzQEj3BeXLgRWUME4WHE93QYHVPRATTO8+qUxbx0
+pQws3FtELBDpZZ+QsvzfxZFvZHwd6ZpeO20NVsje3KyFyD9IlYOLGpD78t1aOEP8gVgR8lTWEBKh
+RDnLWddlecnz5y5FjnVNYp8Cou94fu5F/dMxxEu0a7ECRMKwAtzm98ppzm0NR121uCje1GgfwWL5
+KtJ8TSWFxsK9vL6BBLfG6xY7bjEDhPiXvqEXpVD+rg==
