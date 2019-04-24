@@ -1,0 +1,23 @@
+type: model
+authority-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+series: 16
+brand-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+model: ubuntu-core-18-ifc6640
+architecture: arm64
+base: core18
+display-name: Ubuntu Core 18 (IFC6640)
+gadget: ifc6640=18
+kernel: dragonboard-kernel=18
+timestamp: 2016-11-15T17:43:39+00:00
+sign-key-sha3-384: m4ldQeZ-SDIbvYTHIsug9YIwNbjQvOQSH90sWEj66tSIuZpfl1bLFQuHdIiv5IsI
+
+AcLBXAQAAQoABgUCXKk6WAAKCRBVi+C7v4VPve9EEACAYhOuUjZiHSdfGRsIAvaeyeqAlVd32Flx
+fyVyPHRZEoxgMMm1KZ0XIWbd+FiFfj7JDNUiEQfG/HeHFQw4OvA3ByAF8PmKT0e2upIaqYlK0A4m
+6jHlirjL3xMwwjEDn6G7ckda64P8D2uMY5AbZMdBL1ZQHwUPHhXMfp1FtmWyHODNNNGsNghH8cT8
+fOKa+Vh+CN+jBeMWP1tftmO8lqAGxmAavqunFK6DRF5kRkUEIVArR3i4QX+tKvCtaq/m8pJALYVk
+KWqBBMRzhyX+SkC9QBuymBrvDZAly25+rGvPpHvI6U5EMGLlkBOAcH2EZHYzQZsuQvsy9DIEGeUF
+BLAMvwUQK4tXic/evCPV2qeoB6hd0foMZLCJahH1ca0qHsu5EEN3VTVf9dW/Rkylmhe76MHDu0j0
+JILzvAzJIfI+VqWMpKYnob+J9/rYfpzCw3lfiE1pGC4/Ap0WU3au5lrAa0/3m1Z6tYwfNp3CUit6
+0HY72eWsSYXKwUBgc42kOgDXxFC1NH9hdMlxA763m7EfOiDugbTaD3pgDtj3LNciZmt7uyy91bvC
+mJDgzbg79EvMF+4gavOxrf+jBwOt3KAkPrSjhaNM1htACveGUd1iHyV/vLvkPghdXw1hxtBQX0dt
+FIda8Lenputbc7N+bzYmSxUseT1t5e+KEcA4ztXwQw==

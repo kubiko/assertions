@@ -1,0 +1,21 @@
+type: model
+authority-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+series: 16
+brand-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+model: dragonboard-ondra
+architecture: arm64
+gadget: dragonboard
+kernel: dragonboard-kernel
+timestamp: 2016-11-15T17:43:39+00:00
+sign-key-sha3-384: m4ldQeZ-SDIbvYTHIsug9YIwNbjQvOQSH90sWEj66tSIuZpfl1bLFQuHdIiv5IsI
+
+AcLBXAQAAQoABgUCWljyXAAKCRBVi+C7v4VPvXNgD/97d+zBvLoy7Vd5+mLRHpHsI2vxEKqLXcBS
+fYT/uRS/ZhW0xBEKSH1EjbMv6CEz85NSgL58upoySLwGsCvv4l5OZynNA/21NkyYEZinNmWK8oKY
+DT+9tK5PBmStM3nSIHocJQgjtO16djm0Lx6R61naennOKQlIEuFp2J5HkOJxpPPCiV2Qeyfn5nhX
+7ZbNt6W3ReDwuc0Ih3AByXnuTeXPSmNs/9MCL6CSi+yfA6cy+xddSEocxtXd8NcLyz8xdkEDAqMO
+LuZAp2PDEdB7XlaYB3wUpBpDKgsKVxgwRBxqTZfFr/URG1w51b/BzK301yQTzpGwssbCoAQCXAjv
+g70hXFniffMlgDQU5q/yhYyqtoxaOaTN4wrqoa6Md9MRACnt9ID1+vl2Vu1fYJWUAPQtYke5cFRd
+MVNxR+5FV5B2F7J06g3z9ucbw03dbmLgEDQ1GeD0ERTjugMNQbzCbT6mU/6iuST6dk/56pKqJlw5
+iDrVtTyDxfssV0olaH2xuZmnrIIoXW/r5ko5iNfkMzY3nq9TBFrRE6wLqCQg/WcdwYtx5XDxyxeW
+Jw5WZIDU/y2DJsao/mfEEa/PeqDzgs+kDA8rWfKj8jtkrnlSCA35slzG5hBOuVZctREsL6d8MN5P
+6ISbMAUVAxMT86kDvm3CXne0j9dFNcUvF/4ZoY/CYQ==

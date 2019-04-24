@@ -1,0 +1,22 @@
+type: model
+authority-id: SgO2EXiK2bwgtciB1mNjMYM6zcljwXZt
+series: 16
+brand-id: SgO2EXiK2bwgtciB1mNjMYM6zcljwXZt
+model: dragonboard
+architecture: arm64
+gadget: dragonboard
+kernel: dragonboard-kernel
+store: IoTh4moam7vahMab9coo
+timestamp: 2019-03-05T17:43:39+00:00
+sign-key-sha3-384: BHcAPl3wMOyxzg1xgwhQpcRF7NUcJsG7ETUdOXID5gFtumbyCOdDHKxWnd_AwtB5
+
+AcLBWwQAAQoABgUCXH/CDQAKCRCvjBGS2p9EwuWpD/dk3GWhsbWCFniNlmhII/5TO93xYeiICqTV
+A7SpAYXe9E9cXIRPbLW4KwG3ai9QvEysL5Dwy4lMlCLbAawsM54pX2qp9DluvP0ZbEshcE1/qcfU
+5mJ+teywd5E3x1Cg3bE/sz5H2OgGquYK+emlboq/aNi3sDleKTklK3ksQUeVMV/ZXkGQWSepid58
+bB6vjt/SvINI4jm1soAIAJGls5oV8jI1b25tNSjybHxJmjMEHTMS3IUajYQ4gCK1gxyy5YG8X772
+Deyde40+l2/TS4jvpPokSRVn+9sAZmFO1fcEgFm4WHK8SvRZF+RDQVFRbyt1FEtTmU4gTp0FF55I
+ikTRWqGmk7t7KWfYjNzjsXaKq0kkOJiQdAjQ9Lyz3H1RV0uHjsA+SSEdGxXtTZaZzav40dCCO5/y
+jF+ZVGF0FSbLcBlZL1/GofpIeZFeZ7IV1kZovfPkp3BimjuGrok417UQLnHpPRGJ1+9O1x35nGVl
+mwquvU90bdqFlxmGEJmr3kIiRCf0lmkL+UVm/17U/LR0QszTb2BHJCqdCojc8QS6REC+DYwZq7JW
+PPxbdtti7f90K9qd5yxIiEsMLv7mswvVkFsgATcq42WtZMQbBaYasUFea19me3QOeI5ysQ8LAIbC
+Z5VCjqEni5CYJILoeVweU0lNxtbFeatvle8Cp/Qj

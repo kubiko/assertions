@@ -1,0 +1,21 @@
+type: model
+authority-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+series: 16
+brand-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+model: ioter5
+architecture: arm64
+gadget: ioter5
+kernel: ioter5-kernel
+timestamp: 2016-11-15T17:43:39+00:00
+sign-key-sha3-384: m4ldQeZ-SDIbvYTHIsug9YIwNbjQvOQSH90sWEj66tSIuZpfl1bLFQuHdIiv5IsI
+
+AcLBXAQAAQoABgUCW3LVpgAKCRBVi+C7v4VPvWgFD/wOL/0A7elZ6YBjQPVJtKSOvMVBV20FNYy9
+FTSRJhrSrB42sr9QNr/PhtEMG7DjlLBXr6g3NITrywKA5KS4R0+XLlYRPYGC/6MAnMEoxEeSE+i/
+zPFTHlmkb5EaHUtAAYjVnvMWMhgirFgq6RFC5Ns4rLvjoprr2Js6/vhSEIuub/xVim9op+qasMwL
+74XDZ1UvvupyTyRiUEKHHt85UwaZW0ydE8eISMAVBirGClYZjWHzoyctCoi0nOCKU+2sGKB4jGB5
+JlUKjG07+xz5W/1rg6MRw0h06jxgDYAAUTUEkHPuME5fLbuRnayzT88fjEL/6Dfp0nW+mKCE2/I/
+tdZhmGrIL3lH2oLrq6K/4KmAFJ/8+epCEf6+7m4+6YffcOOwbS6L8c31PoTC1gzAseSc9i9DBpQ7
+idG3wBOzUBXFXJ0oUBHKCF7gQi9Yq6OJ3AYZPO/Je9trrc8/CaXzw6Y4/yrmGrA0vmPRTaSMoUIS
+MnesySYWnBc0n2N56UILlXvRsvaoGY2P/xK1RezGpj9j//GDHFcY2en0v1zpuyoscXMtE58NwWzj
+xG+VrMOu4f21IdissT1Gt3p6Xk87QcHF1FMdv//8y/8bgbnMgJn77Oo4ZkRn94wzqIfEeksTMx8U
+KeX8oZIIYzSmcGDKUIMdr53o6AqD/oqBy01Y13WoTg==

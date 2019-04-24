@@ -1,0 +1,12 @@
+{
+  "type": "model",
+  "authority-id": "SgO2EXiK2bwgtciB1mNjMYM6zcljwXZt",
+  "brand-id": "SgO2EXiK2bwgtciB1mNjMYM6zcljwXZt",
+  "series": "16",
+  "model": "dragonboard",
+  "architecture": "arm64",
+  "gadget": "dragonboard",
+  "kernel": "dragonboard-kernel",
+  "store": "IoTh4moam7vahMab9coo",
+  "timestamp": "2019-03-05T17:43:39+00:00"
+}

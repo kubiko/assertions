@@ -3,9 +3,9 @@
   "authority-id": "Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI",
   "brand-id": "Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI",
   "series": "16",
-  "model": "cm3-ondra",
-  "architecture": "armhf",
-  "gadget": "cm3-ondra",
-  "kernel": "pi2-kernel",
+  "model": "ifc63b0",
+  "architecture": "arm64",
+  "gadget": "ifc63b0",
+  "kernel": "dragonboard-kernel",
   "timestamp": "2016-11-15T17:43:39+00:00"
 }

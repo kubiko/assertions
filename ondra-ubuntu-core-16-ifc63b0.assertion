@@ -1,0 +1,21 @@
+type: model
+authority-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+series: 16
+brand-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+model: ifc63b0
+architecture: arm64
+gadget: ifc63b0
+kernel: dragonboard-kernel
+timestamp: 2016-11-15T17:43:39+00:00
+sign-key-sha3-384: m4ldQeZ-SDIbvYTHIsug9YIwNbjQvOQSH90sWEj66tSIuZpfl1bLFQuHdIiv5IsI
+
+AcLBXAQAAQoABgUCWq/5ZAAKCRBVi+C7v4VPva9+D/wJaftGiOA+4ZduybB3uYQAUq6FkSff97A3
+CGUl7KBCvjp8cgu8plLBa9j0Z3vksfhzu4MSMCR1aTJPuPb5DJ6Ux9PWOtTdTu2YAElf4mN4qvkP
+mN4aoBAJua5OL9gR2Xn67GA01bSb/JhCGdIPdGfT1wlwbcBfLHsTMJ1Bm3VeYy+vBpeD2DmsFOon
+QvHTLGw6XhHVTqBWFYV+f/M6LnmCeAsKR9P1X4o3IEMEghba+JtgUUGN7kv7fHCto0+KZgFLSmQm
+3M/C/PWHxy3mKEax3b8kNwesfaVJkeipd7IDitC1KGDScv0yo0aIJF6XyJqbnpYcPQSZzBG2Bre6
+OCKdN4nkVvrrq3bF7gFC+QOw30b/ijBxYMAzn2locWmZo3SrieYiKdXBuxm3VI5flynm+lv19JLl
+6xK5oRR2ZoqODf9YIhJMYZbY5DK+lrHwThkcJc5Pr9VihrY2l0iYsEf2+Wk5eT/jauHuWASH4fht
+lbKXEzgLxM2OHPIFG8H6LP4hi9q52NY1OjUzIqMU/eD0f5Be3MBwWI2TT/4IMaNGWO6RHgSrxORO
+AW5KSy+z6NULjadQMNXhK/XgO6p0zaK+2h+D7ZGTahKpIBz9CqcihKiqPJwP6ItDiiUOkSS6hnNn
+Bo3Sh5kp5pw+y2E8fvcZQ01UJAH70vkHtDUkLwYkEQ==

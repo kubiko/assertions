@@ -7,5 +7,6 @@
   "architecture": "amd64",
   "gadget": "pc-ondra",
   "kernel": "pc-kernel",
+  "required-snaps": ["avahi"],
   "timestamp": "2016-11-15T17:43:39+00:00"
 }

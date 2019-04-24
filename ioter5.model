@@ -1,0 +1,25 @@
+type: model
+authority-id: ODdwXRGldS11PvYLjY1bckHKwdzZLG26
+series: 16
+brand-id: ODdwXRGldS11PvYLjY1bckHKwdzZLG26
+model: ioter5
+architecture: arm64
+gadget: ioter5
+kernel: ioter5-kernel
+required-snaps:
+  - ioter5-configuration
+  - pivot-agent
+store: It4ooghiesh6Ob6shaYa
+timestamp: 2018-05-01T07:24:55Z
+sign-key-sha3-384: 18T08wAX_U9j9L9TNPuS-TVYPWw4zrjtVrzHpQdx0TlyhPAEf0xJYgpR-hnim6rl
+
+AcLBUgQAAQoABgUCWugWRwAAJnEQABDwa2/JUkXnPueqZI5eVN+p+xAgPiE+kP2LEFHJ6C3ggeH7
+wASPq1XaPxdvxPBw0YyzkT4LJ2ouxiKHj+SmKALOanq3j9wFdfrCAWik3kn3ik5KeyQ/b1/65JcH
+oLGhIhW+T51XIGuzBgj68w+9cn8nnkX+ZNZ/jvn4CC8nR628Jk4lsRKKoA/sOKa2/duurCaFeqOK
+FOYHVYmtApk4aZiVKuYauD0d+XAPgwxHKWlmRYOBNLGyhCieINQaKVx+loZf2le/k65+GfGF+PAy
+GnRtTTKy/3/ge+oPK/Nf7mDjJCXj9EfdLdUHRTzQDr5wsBfX9kSA9IjIK8EM8GVuWZ9k8+daGdMn
+Uhr131rZvUkWww+vVBlsIxcGUllzJbmDK95g+240aU4dn+auhD9xNseEGXXy90iNg5sk6aEpaN1U
+KPNw4rGuZwWnh6AxkAPriI+5MF+E8odK7Fd0bMW4mv5MrkALMH0o+s7fyMEc4ii0BD4sLCB0AO3N
+rJO2zTbFV9hc7tEv0rItqYSKtIyr/56kVBij7ocu2RvO1PVbPw3asi8ZpD1QbZUyeaiq+ss99rSR
+jnYleYZOzw/jfIrfGhy0N8fNlxnaOI+TH3Ay4xWko+eBTZ7JYm9UkcLIIDN+8yBSE6EhYV8eCcM0
+d/xw3Dj9RK9fg3XcZQbEZEs9pBAe
