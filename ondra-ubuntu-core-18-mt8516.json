@@ -1,0 +1,13 @@
+{
+  "type": "model",
+  "authority-id": "Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI",
+  "brand-id": "Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI",
+  "series": "16",
+  "model": "ubuntu-core-18-mt8516",
+  "architecture": "armhf",
+  "base": "core18",
+  "display-name": "Ubuntu Core 18 (IFC6640)",
+  "gadget": "mt8516=18",
+  "kernel": "mt8516-kernel=18",
+  "timestamp": "2019-04-25T17:43:39+00:00"
+}

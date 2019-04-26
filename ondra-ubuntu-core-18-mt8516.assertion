@@ -1,0 +1,23 @@
+type: model
+authority-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+series: 16
+brand-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+model: ubuntu-core-18-mt8516
+architecture: armhf
+base: core18
+display-name: Ubuntu Core 18 (IFC6640)
+gadget: mt8516=18
+kernel: mt8516-kernel=18
+timestamp: 2019-04-25T17:43:39+00:00
+sign-key-sha3-384: amIePSXqbEi1VuFmqAddIjkseWzfaKbikPvzQyn40a8L-gUa6CU77zIzu6YzY8k_
+
+AcLBcwQAAQoAHRYhBDMMexM5wv72Dz2/vBF4Cdp0KG0nBQJcwX7cAAoJEBF4Cdp0KG0nVI0P/R6x
+OxnKEBfm9GkuLbcUBcZenMGJQukNnoRhtsFCJLoSp/FEW0iWEvfM70JB00wL85aZH7CrcOfu4frO
++FLILuoSZEP9LV36jnSfHPLYmOSCQWQzblr6rRALya+xw5e1dE6RULYXBTFdSuLrBzVeFVP5G0QG
+EREdwyyfNFAGh5V1BwQexkj1nxrgnGC8KzwgCKGWAsH7p0Btcm3ceJG2rOqnwMVstJBh2UWgfCVk
+0MbyoMkN6lHlcHpYiTD7j8gcaU+ipSYuJN5dO7Qw9Dhfs1fzhX/3Lhos9ZZYDnqrZVlPFeVUWc+h
+SsaV75iX6IB86nn3onIyQJIIKdw9aqr2WqAuQnQBgA0XAt/X2zLpU2DmZ4YePz6lLSKqIYlN3GRk
+W/0XNrssCqKtZxG/es0FBI32JcQxjguwl3hFvf3dSurF1A+OFqmX/Jd4sZ9bvlCb7f+bI/p8fgiC
+Fv6h7P94stRbgLP7Nnvr11+Uay1QnTHT6YVqq0sptJjYJ1kZ4q0uCzsDMCdO+QUadP/LTegyFWW8
+PMIS5h0GjI+ji1lpl2E+boRB4BXxbWITK89CKdgTNGXofyIAscssITuKBn7LZPLsIYoq+xyuN8Vs
+eP1UUhHh+EfD0fPjm+0vQjrYHEwOcXnhN5lHksLXWOEbidbEJnAB2k3e20IGrGFooAz8FMrI
